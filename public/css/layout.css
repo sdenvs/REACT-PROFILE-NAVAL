@@ -522,7 +522,10 @@ ul#nav li.current a {
 }
 
 /* Portfolio Content */
-#portfolio-wrapper .columns {
+#portfolio-wrapper1 .columns {
+  margin-bottom: 36px;
+}
+#portfolio-wrapper2 .columns {
   margin-bottom: 36px;
 }
 .portfolio-item .item-wrap {
