@@ -35,6 +35,11 @@ export default class Porfolio extends Component {
                     </div>
                   );
                 })}
+                </div>
+                  <div
+              id="portfolio-wrapper"
+              className="bgrid-quarters s-bgrid-thirds cf"
+            >
               <h1>Backend Projects</h1>
               {resumeData.frontend &&
                 resumeData.frontend.map((item) => {
