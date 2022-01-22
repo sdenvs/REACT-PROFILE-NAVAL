@@ -99,6 +99,15 @@ let resumeData = {
         "https://res.cloudinary.com/nani57/image/upload/v1641908257/portfolio/nxt-trendz-authentication-output-v2_nystko.gif",
     },
     {
+      name: "Covid Dashboard",
+      description:
+        "Implemented a responsive Covid Dashboard where users can see confirmed, active, recovered and deceased cases in India state wise. Users also can search by state and see state specific cases info with different types of graphs.",
+      technologies: "HTML, CSS, JavaScript, React JS, Recharts, Figma",
+      website: "https://covidboardnvs.ccbp.tech/",
+      imgurl:
+        "https://res.cloudinary.com/nani57/image/upload/v1642844315/portfolio/Covid_State_tp96jj.jpg",
+    },
+    {
       name: "Emoji Game",
       description:
         "Developed responsive Emoji memory game where users can win it by clicking unique emoji each time till all displayed emojis are clicked. All emojis positions will be randomized after each click",
