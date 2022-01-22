@@ -254,7 +254,12 @@
 
    /* Portfolio Section
    /* ----------------------------------------------------------------- */
-   #portfolio-wrapper .columns { margin-bottom: 40px; }
+    #portfolio-wrapper1 .columns {
+    margin-bottom: 40px;
+  }
+  #portfolio-wrapper2 .columns {
+    margin-bottom: 40px;
+  }
    .popup-modal {	max-width: 85%; }
 
 
