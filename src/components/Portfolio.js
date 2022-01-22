@@ -8,7 +8,7 @@ export default class Porfolio extends Component {
           <div className="twelve columns collapsed">
             <h1>Check Out Some of My Works.</h1>
             <div
-              id="portfolio-wrapper"
+              id="portfolio-wrapper1"
               className="bgrid-quarters s-bgrid-thirds cf"
             >
               <h1>Frontend Projects</h1>
@@ -37,7 +37,7 @@ export default class Porfolio extends Component {
                 })}
                 </div>
                   <div
-              id="portfolio-wrapper"
+              id="portfolio-wrapper2"
               className="bgrid-quarters s-bgrid-thirds cf"
             >
               <h1>Backend Projects</h1>
